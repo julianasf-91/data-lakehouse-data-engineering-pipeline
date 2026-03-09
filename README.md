@@ -160,7 +160,7 @@ pillow
 # 📂 Estrutura do Projeto
 
 data-engineering-pipeline/
-
+``` bash
 │
 ├── BRONZE/
 │ └── vendas.csv
@@ -176,7 +176,7 @@ data-engineering-pipeline/
 │ └── pipeline_dados.ipynb
 │
 └── README.md
-
+```
 
 ---
 
